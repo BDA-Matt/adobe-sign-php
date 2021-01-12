@@ -11,7 +11,7 @@ https://acrobat.adobe.com/us/en/sign.html
 To install, use composer:
 
 ```
-composer require kevinem/adobe-sign-php
+composer require BDA-Matt/adobe-sign-php
 ```
 
 ## Documentation

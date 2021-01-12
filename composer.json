@@ -1,9 +1,9 @@
 {
-  "name": "kevinem/adobe-sign-php",
+  "name": "bda-matt/adobe-sign-php",
   "description": "Adobe Sign PHP Client",
   "require": {
     "php": ">=5.6.0",
-    "kevinem/oauth2-adobe-sign": "^0.1.5"
+    "bda-matt/oauth2-adobe-sign": "^0.1.9"
   },
   "require-dev": {
     "phpunit/phpunit": "^5.4",
